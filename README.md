@@ -1,2 +1,2 @@
 # Automated-Medical-Shop
-This is the software for the Automated Medical Shop model
+Paper-less, seamless interaction from checking with the doctor to getting the medicines.
